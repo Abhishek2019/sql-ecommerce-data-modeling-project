@@ -4,17 +4,6 @@ This repository contains a SQL Server–based e-commerce data modeling project d
 
 The solution is based on a business scenario where an e-commerce company needs to answer key questions such as which products sell the most by category, which customers are repeat buyers, and which orders are delayed in shipment. The data model is normalized and structured to reduce redundancy, improve data quality, and support scalable query performance.
 
-## Recommended Repository Name
-
-`sql-ecommerce-data-modeling-project`
-
-Other good options:
-
-- `ecommerce-sql-data-model`
-- `sql-server-ecommerce-project`
-- `ecommerce-db-design-sql`
-- `abc-ecommerce-sql-project`
-
 ## Project Objective
 
 The main objective of this project is to design a well-structured relational database for an e-commerce business and implement SQL objects that support business reporting, operational validations, and performance optimization. The project includes:
